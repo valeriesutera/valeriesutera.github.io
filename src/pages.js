@@ -1,6 +1,6 @@
 import React from "react";
 import {Link, useLocation} from "react-router-dom";
-import InstaFeeds from './Components/InstaFeeds'
+import {InstaFeeds} from './InstaFeeds'
 
 function Header(){
     return(
